@@ -1,4 +1,6 @@
 # Brad Toolchain — assembler, bradc-mini, Brad-CVT, BVRT
+[![CI](https://github.com/Brad-Devices/BradToolchain/actions/workflows/ci.yml/badge.svg)](https://github.com/Brad-Devices/BradToolchain/actions/workflows/ci.yml)
+
 
 The reference toolchain for **BradISA V2**, built from the same sources that
 produce the receipts on <https://brad-devices.vercel.app/now/>.
